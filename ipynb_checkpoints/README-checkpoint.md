@@ -175,7 +175,7 @@ Before you start, make sure you have these things:
 ### Step 1: Download the Code
 
 ```bash
-git clone https://github.com/Adityadhadiwal/Advanced-RAG-LangGraph.git
+git clone https://github.com/chitralputhran/Advanced-RAG-LangGraph.git
 cd Advanced-RAG-LangGraph
 ```
 
@@ -330,6 +330,3 @@ This project uses the MIT License - check out the [LICENSE](LICENSE) file for th
 
 
 
-#   A d v a n c e d - R A G - C H A T B O T  
- #   A d v a n c e d - R A G - C H A T B O T  
- 

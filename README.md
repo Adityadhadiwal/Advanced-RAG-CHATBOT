@@ -49,7 +49,7 @@ The system uses LangGraph to manage a sophisticated workflow with:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Advanced-RAG-LangGraph.git
+   git clone https://github.com/Adityadhadiwal/Advanced-RAG-LangGraph.git
    cd Advanced-RAG-LangGraph
    ```
 
